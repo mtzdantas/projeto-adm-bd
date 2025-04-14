@@ -5,3 +5,7 @@ Repositório criado para responder tarefas da disciplina de Projeto e Administra
 **Nome:** Mateus Dantas de Oliveira<br>
 **Matrícula:** 20230035677<br>
 **E-mail:** mateus.dantas.125@ufrn.edu.br
+
+## Tarefas
+
+- [Tarefa 01 - Consultas Aninhadas, Visões e CTEs](./tarefas/t01/tarefa01.md)
